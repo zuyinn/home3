@@ -1,5 +1,5 @@
 theme = "variant"  
-baseURL = "https://zuyinn.github.io/"
+baseURL = "/"
 #baseURL = "https://airbone4.github.io/class_web" #https://xxx.github.io/xxx
 pygmentsUseClasses = true
 languageCode = "en-us"

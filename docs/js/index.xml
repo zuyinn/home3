@@ -2,34 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>課堂練習用的地方 on Learn Javascript</title>
-    <link>/js.html</link>
+    <link>https://zuyinn.github.io/js.html</link>
     <description>Recent content in 課堂練習用的地方 on Learn Javascript</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="/js/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://zuyinn.github.io/js/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>mdprimer</title>
-      <link>/js/mdprimer.html</link>
+      <link>https://zuyinn.github.io/js/mdprimer.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/js/mdprimer.html</guid>
+      <guid>https://zuyinn.github.io/js/mdprimer.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>uuuuu</title>
-      <link>/js/firstjs.html</link>
+      <link>https://zuyinn.github.io/js/firstjs.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/js/firstjs.html</guid>
+      <guid>https://zuyinn.github.io/js/firstjs.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>模板</title>
-      <link>/js/%E6%A8%A1%E6%9D%BF.html</link>
+      <link>https://zuyinn.github.io/js/%E6%A8%A1%E6%9D%BF.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/js/%E6%A8%A1%E6%9D%BF.html</guid>
+      <guid>https://zuyinn.github.io/js/%E6%A8%A1%E6%9D%BF.html</guid>
       <description></description>
     </item>
     
