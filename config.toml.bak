@@ -1,9 +1,9 @@
 theme = "variant"  
-baseURL = "/"
+baseURL = "https://zuyinn.github.io/"
 #baseURL = "https://airbone4.github.io/class_web" #https://xxx.github.io/xxx
 pygmentsUseClasses = true
 languageCode = "en-us"
-title = "Learn Javascript"
+title = "rmi"
 relativeurls = true
 publishDir = "docs"
 author = "lendjwjcen"

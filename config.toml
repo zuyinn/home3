@@ -3,10 +3,10 @@ baseURL = "https://zuyinn.github.io/"
 #baseURL = "https://airbone4.github.io/class_web" #https://xxx.github.io/xxx
 pygmentsUseClasses = true
 languageCode = "en-us"
-title = "Learn Javascript"
+title = "rmi"
 relativeurls = true
 publishDir = "docs"
-author = "lendjwjcen"
+author = "tzuyinn"
 enableGitInfo = false
 
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$",  "_cache$","README","~.*"]
@@ -47,7 +47,7 @@ enableEmoji = true
  
 
 [params]
-  email = "xxx@nkust.edu.tw"
+  email = "C110130153@nkust.edu.tw"
   # extratheme
   nomath = false
   
